@@ -6,8 +6,6 @@ By :
 >Dhruv (B20EE016) 
 
 ***
-## Google Colab link :
-[https://colab.research.google.com/drive/1doqmMAp6alWgbbuR36edU_1f_n02ZW0v?usp=sharing](https://colab.research.google.com/drive/1doqmMAp6alWgbbuR36edU_1f_n02ZW0v?usp=sharing)
 ## Guidelines:
     In this folder, there is a Report, Images folder, data.csv file along with this ReadMe file.
 
