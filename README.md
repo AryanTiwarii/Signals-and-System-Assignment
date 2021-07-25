@@ -13,20 +13,3 @@ By :
     The code will produce x_1[n] and x_2[n] ,
     x_1[n] is the signal after denoising then deblurring.
     x_2[n] is the signal after deblurring then denoising.
-## How to Run the code:
-
-> Step 1: Open Google colaboratory link
-
-> Step 2: Click on files:
-
-![Files icon](Images/Files_icon.jpg "Files icon").
-
-> Step 3: upload data.csv by clicking on 'upload to session storage' button.
-
-![upload to session storage](Images/upload_to_session_storage.jpg "upload to session storage").
-
-> Step 4: click on runtime and then run all. (alternatively, use ctrl+F9)
-
-![Runall option](Images/runtime_runall.jpg "Run all option")
-
->Step 5: the code will run and then you will be able to see the various graphs and outputs.
