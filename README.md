@@ -1,4 +1,4 @@
-# EEL2010 - Programming Assignment
+# EEL2010 - Programming Project
 --- 
 By :
 >Aryan Tiwari (B20EE010)
